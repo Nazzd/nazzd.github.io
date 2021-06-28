@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nazzd.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-06-28T15:23:06.172Z</updated>
+    <title>Nazzd</title>
+    <updated>2021-06-28T15:27:05.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nazzd.github.io"/>
     <link rel="self" href="https://nazzd.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>As long as your step by step forward, down to earth, wish one day be realized.</subtitle>
     <logo>https://nazzd.github.io/images/avatar.png</logo>
     <icon>https://nazzd.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Nazzd</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://nazzd.github.io/post/hello-gridea/</id>

@@ -27,11 +27,7 @@ categories: [Prettier]
 
 1. 安装prettier插件和vscode扩展 [Prettier - Code formatter](https://link.juejin.cn/?target=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Desbenp.prettier-vscode "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode") ：
 
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6410957ae01f44daa37bc9b3024932dd~tplv-k3u1fbpfcp-zoom-in-crop-mark:4536:0:0:0.awebp)
-
 2. 在项目根目录新建一个文件夹 `.vscode` ，在此文件下再建一个 `settings.json` 文件
-
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f35d7fef8e3c41d1b784597dc34dcbcc~tplv-k3u1fbpfcp-zoom-in-crop-mark:4536:0:0:0.awebp)
 
 代码保存时会自动格式化代码
 

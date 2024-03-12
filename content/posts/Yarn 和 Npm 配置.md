@@ -1,3 +1,11 @@
+---
+title: yarn 和 npm配置
+date: 2024-03-12T14:14:22+08:00
+author: Nazzd
+tags: [yarn,npm]
+categories: [yarn,npm]
+
+---
 ## yarn 和 npm配置
 
 #### 环境安装和配置

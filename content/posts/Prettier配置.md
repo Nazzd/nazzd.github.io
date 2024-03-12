@@ -1,3 +1,12 @@
+---
+title: Prettier配置
+date: 2024-03-12T14:14:22+08:00
+author: Nazzd
+tags: [Prettier]
+categories: [Prettier]
+
+---
+
 ## Prettier
 
 #### 测试地址： [Prettier](https://prettier.io/playground/)

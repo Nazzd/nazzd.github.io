@@ -1,5 +1,5 @@
 title = "Nazzd's Blog"
-baseURL = "http://example.org/"
+baseURL = "https://www.nazzd.com/"
 # 设置默认的语言 ["en", "zh-cn", "fr", "pl", ...]
 defaultContentLanguage = "zh-cn"
 # 网站语言, 仅在这里 CN 大写 ["en", "zh-CN", "fr", "pl", ...]
@@ -80,12 +80,18 @@ theme = "FixIt"
   version = "0.2.X" # e.g. "0.2.X", "0.2.15", "v0.2.15" etc.
   # site description
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
-  description = "This is my new Hugo FixIt site"
+  description = "Nazzd's Blog - Java, AI, IoT, Architecture"
   # site keywords
-  keywords = ["Hugo", "FixIt"]
+  keywords = [
+    "Java",
+    "Spring Boot",
+    "AI",
+    "IoT",
+    "Hugo"
+  ]
   # site default theme ["light", "dark", "auto"]
   # 网站默认主题 ["auto", "light", "dark"]
-  defaultTheme = "light"
+  defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
   # 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
   gitRepo = ""
@@ -197,7 +203,7 @@ theme = "FixIt"
     custom = ""
     # FixIt 0.2.0 | NEW whether to show Hugo and theme info
     # 是否显示 Hugo 和主题信息
-    hugo = true
+    hugo = false
     # FixIt 0.2.0 | NEW whether to show copyright info
     # 是否显示版权信息
     copyright = true
@@ -213,7 +219,7 @@ theme = "FixIt"
     gov = ""
     # ICP info only in China (HTML format is supported)
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
-    icp = "苏ICP备2024062139号-2"
+    icp = '<a href="https://beian.miit.gov.cn/" target="_blank">苏ICP备2024062139号-2</a>'
     # license info (HTML format is supported)
     # 许可协议信息 (支持 HTML 格式)
     license = '<a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
